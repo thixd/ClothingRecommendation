@@ -1,0 +1,9 @@
+Install python Python 3.10.5
+
+After that run
+
+pip install -r requirements.txt
+
+How to turn on AI server on current folder
+python app.py
+
